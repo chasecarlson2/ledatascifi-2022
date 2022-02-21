@@ -98,11 +98,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "to return first element, use sq. bracket...[element]\n",
-    "to return last element, us sq. bracket but reverse element number\n",
-    "# start:end \n",
-    "# start to end but omit end means GO until finished\n",
-    "#L[beg:end:stride length]"
+    "put your notes here"
    ]
   },
   {
@@ -120,45 +116,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "### For loops, indent the lines that are included in the loop.\n",
-    "Once there is an non-indented line, the system will run it as normal\n",
-    "\n",
-    "###\n",
-    "1. for stonk in stonks\n",
-    "2. price = get(stonk)\n",
-    "3. tot= tot+price\n",
-    "\n",
-    "### Code Flow\n",
-    "1. Always be checking your data\n",
-    "2. Psuedo-code\n",
-    "    -can do them on paper\n",
-    "    -break problem into subparts\n",
-    "3. write skeleton for loop on ONE element\n",
-    "    for stonk in stonks[0]\n",
-    "        Print(stonk)= #ABCD\n",
-    "\n",
-    "### finding total by incrementing\n",
-    "mynumbers= (2,4,8)\n",
-    "tot=0\n",
-    "for num in mynumbers:\n",
-    "    print ('on num: ',num)\n",
-    "    tot=tot+num\n",
-    "    print('tot now', tot)\n",
-    "print(tot)\n",
-    "\n",
-    "###\n",
-    "print('x is now equal to ',x)\n",
-    "print('len(X)',len(x)) # message as string, comaobject)\n",
-    "\n",
-    "\n",
-    "### If, elif, else\n",
-    "\n",
-    "if <condition 1>:\n",
-    "    <do some stuff if condition is true>\n",
-    "elif <condidtion 2>:\n",
-    "    <do stuff if condition 1 is false but condidtion 2 is true>\n",
-    "else:\n",
-    "    <if neither condition 1 nor 2 is true, do this>"
+    "put your notes here"
    ]
   },
   {
@@ -194,7 +152,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.9.7"
+   "version": "3.8.12"
   }
  },
  "nbformat": 4,
